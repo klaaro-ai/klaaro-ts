@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "description": "Official TypeScript SDK for the Klaaro API",
   "homepage": "https://klaaro.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaaro-ai/klaaro-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klaaro-ai/klaaro-ts/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
